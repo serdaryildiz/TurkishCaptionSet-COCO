@@ -1,4 +1,4 @@
-# Paper: Automatic Turkish Image Captioning: The Impact of Deep Machine Translation
+# !Paper! Automatic Turkish Image Captioning: The Impact of Deep Machine Translation
 
 
 
