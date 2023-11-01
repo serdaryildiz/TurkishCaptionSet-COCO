@@ -1,4 +1,4 @@
- !Paper! Automatic Turkish Image Captioning: The Impact of Deep Machine Translation
+# !Paper! Automatic Turkish Image Captioning: The Impact of Deep Machine Translation
 
 <font size='3'> <p align="center">
     <a href='https://scholar.google.com/citations?user=sl1KrkYAAAAJ&hl=tr'> Serdar Yıldız* </a> 
